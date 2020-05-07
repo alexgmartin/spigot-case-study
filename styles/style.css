@@ -456,8 +456,8 @@ input:not([type="checkbox"]):not([type="radio"]) {
 
 @media (max-width: 991px) {
 
-  aside {
-    display: none !important;
+  .alex-1 {
+    display: none;
   }
   .logo-container,
   .header-layout-1 .main-nav {
