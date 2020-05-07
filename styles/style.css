@@ -182,7 +182,9 @@ input.search-field::placeholder {
   background: #003366;
 }
 
-
+.theme-header .fixed-nav {
+  background-color: rgba(56,68,75, 1);
+  }
 
 
 .entry a:hover:before {
