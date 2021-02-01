@@ -1,7 +1,7 @@
 # spigot-case-study
 Case study for job interview with Spigot, Inc.
-###Demo
+### Demo
 https://alexgmartin.github.io/spigot-case-study/
 
-###Result
-Didn't get the job. Try harder next time!
+### Result
+Didn't get the job. I will try harder next time!
